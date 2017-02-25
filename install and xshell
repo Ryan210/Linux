@@ -1,0 +1,2 @@
+http://www.cnblogs.com/fuly550871915/p/4949513.html
+ip地址要现在使用的网卡的，ipconfig查看，如果还连接不上，可能是网段有重复，换其他试试 
